@@ -1,3 +1,6 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/Shimu-I/program_closer)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Shimu-I/program_closer)
+
 # Program Closer Script
 
 A Python script to safely terminate specified running programs on a Windows system using the `psutil` library.
